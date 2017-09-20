@@ -1,0 +1,3 @@
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/build/CMakeFiles/rebuild_cache.dir
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/build/CMakeFiles/edit_cache.dir
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/build/CMakeFiles/c_example.dir

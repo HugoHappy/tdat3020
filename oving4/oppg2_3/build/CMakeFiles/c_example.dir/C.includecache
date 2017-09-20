@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/a_function.c
+stdio.h
+-
+a_function.h
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/a_function.h
+
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/a_function.h
+
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/main.c
+a_function.h
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/a_function.h
+more_functions.h
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/more_functions.h
+stdio.h
+-
+
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/more_functions.c
+more_functions.h
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/more_functions.h
+stdio.h
+-
+
+/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/more_functions.h
+

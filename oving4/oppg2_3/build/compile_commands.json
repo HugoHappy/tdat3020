@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/build",
+  "command": "/usr/bin/cc     -std=c11 -Wall -Wextra   -o CMakeFiles/c_example.dir/main.c.o   -c \"/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/main.c\"",
+  "file": "/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/main.c"
+},
+{
+  "directory": "/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/build",
+  "command": "/usr/bin/cc     -std=c11 -Wall -Wextra   -o CMakeFiles/c_example.dir/a_function.c.o   -c \"/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/a_function.c\"",
+  "file": "/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/a_function.c"
+},
+{
+  "directory": "/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/build",
+  "command": "/usr/bin/cc     -std=c11 -Wall -Wextra   -o CMakeFiles/c_example.dir/more_functions.c.o   -c \"/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/more_functions.c\"",
+  "file": "/home/qwop/Documents/GitHub/NTNU/2017H/TDAT3020(nettverk_sikkerhet)/Oving4/oppg2_3/more_functions.c"
+}
+]

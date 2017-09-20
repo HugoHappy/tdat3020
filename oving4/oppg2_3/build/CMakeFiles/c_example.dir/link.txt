@@ -1,0 +1,1 @@
+/usr/bin/cc   -std=c11 -Wall -Wextra   CMakeFiles/c_example.dir/main.c.o CMakeFiles/c_example.dir/a_function.c.o CMakeFiles/c_example.dir/more_functions.c.o  -o c_example -rdynamic 
