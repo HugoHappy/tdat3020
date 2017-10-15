@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kristo4/tdat3020/oving8/main.cpp
+iostream
+-
+string
+-
+random
+-
+sstream
+-
+boost/multiprecision/cpp_int.hpp
+-
+

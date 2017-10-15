@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kristo4/tdat3020/oving8/build",
+  "command": "/usr/bin/c++      -std=c++1y -Wall -Wextra   -o CMakeFiles/oving8.dir/main.cpp.o -c /home/kristo4/tdat3020/oving8/main.cpp",
+  "file": "/home/kristo4/tdat3020/oving8/main.cpp"
+}
+]

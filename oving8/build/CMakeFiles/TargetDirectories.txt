@@ -1,0 +1,3 @@
+/home/kristo4/tdat3020/oving8/build/CMakeFiles/edit_cache.dir
+/home/kristo4/tdat3020/oving8/build/CMakeFiles/rebuild_cache.dir
+/home/kristo4/tdat3020/oving8/build/CMakeFiles/oving8.dir
